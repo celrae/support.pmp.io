@@ -4,6 +4,8 @@ To freestyle-search the PMP, the **docs** query is your go-to endpoint (see `urn
 
 For a complete list of PMP search parameters, check out the [legacy querying docs](https://github.com/publicmediaplatform/pmpdocs/wiki/Querying-the-API).
 
+Here's an example of a [full-text advanced PMP search](https://support.pmp.io/search?advanced=1).
+
 For now, let's just try a text search...
 
 ```shell
